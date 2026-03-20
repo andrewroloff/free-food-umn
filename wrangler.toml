@@ -6,4 +6,4 @@ pages_build_output_dir = "dist"
 [[d1_databases]]
 binding = "DB"
 database_name = "free-food-db"
-database_id = "YOUR_DB_ID"
+database_id = "df88237c-94b1-4524-84d8-35f077c5a993"
