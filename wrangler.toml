@@ -1,9 +1,12 @@
 name = "free-food-umn"
 compatibility_date = "2026-03-20"
 
+pages_build_output_dir = "dist"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "free-food-db"
-database_id = "REPLACE_ME"
+database_id = "YOUR_DB_ID"
+
 [triggers]
 crons = ["*/10 * * * *"]
