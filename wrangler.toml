@@ -1,4 +1,4 @@
-name = "umnfreefood"
+name = "free-food-umn"
 compatibility_date = "2026-03-20"
 
 pages_build_output_dir = "dist"
@@ -7,6 +7,3 @@ pages_build_output_dir = "dist"
 binding = "DB"
 database_name = "free-food-db"
 database_id = "YOUR_DB_ID"
-
-[triggers]
-crons = ["*/10 * * * *"]
